@@ -66,14 +66,6 @@ function updateFilters() {
     });
 
 
-    // filteredData = filteredData.filter(row => {
-    //   return Object.entries(filters).every(criteria => {
-    //     const key = criteria[0]
-    //     const value = criteria[1]
-    //     return row[key] === value
-    //   })
-    // })
-    
     // 10. Finally, rebuild the table using the filtered data
     buildTable(filteredData);
   };
