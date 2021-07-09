@@ -19,16 +19,16 @@ A more in-depth analysis of UFO sightings is made possible by allowing users fil
 - Users will be presented with the news article and the unfiltered UFO sightings information table. They can scroll down the page to see all UFOs sightings.
 
 <br /> ![Image](static/resources/UFO_webpage.png) <br />
-<br /> ![Image](resources/Unfiltered_table.png) <br />
+<br /> ![Image](static/resources/Unfiltered_table.png) <br />
 
 **UFO Sightings - search by date** <br />
 The UFOs table of data is huge. Users therefore, have the option to filter the table using multiple criteria at the same time or they can search using one criterion such as date only (as shown below) 
-<br /> ![Image](resources/Search_date.png) <br />
+<br /> ![Image](static/resources/Search_date.png) <br />
 
 **UFO Sightings - search by date** <br />
 For more in-depth analysis of UFOs sightings, users can filter the table by entering a date, the city of interest, state, and shape. The result below shows the filtered table information based on (Date: 1/1/2010), (State: ca) and (Shape: light).
 
-<br /> ![Image](resources/Search_date_state_shape.png) <br />
+<br /> ![Image](static/resources/Search_date_state_shape.png) <br />
 
 
 ## Summary
