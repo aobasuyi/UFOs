@@ -18,7 +18,7 @@ A more in-depth analysis of UFO sightings is made possible by allowing users fil
 **UFO Sightings News** <br />
 - Users will be presented with the news article and the unfiltered UFO sightings information table. They can scroll down the page to see all UFOs sightings.
 
-<br /> ![Image](resources/UFO_webpage.png) <br />
+<br /> ![Image](static/resources/UFO_webpage.png) <br />
 <br /> ![Image](resources/Unfiltered_table.png) <br />
 
 **UFO Sightings - search by date** <br />
